@@ -1,0 +1,5 @@
+<grails>
+  <resources>
+    <resource>Config</resource>
+  </resources>
+</grails>
